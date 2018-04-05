@@ -1,0 +1,28 @@
+{
+  "name": "hexo-filter-hide-content",
+  "version": "0.0.1",
+  "description": "Hide some content for Hexo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmhy/hexo-filter-hide-content.git"
+  },
+  "keywords": [
+    "hexo",
+    "filter",
+    "hide",
+    "content"
+  ],
+  "author": {
+    "name": "evertext",
+    "email": "evertext@users.noreply.github.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmhy/hexo-filter-hide-content/issues"
+  },
+  "homepage": "https://github.com/mmhy/hexo-filter-hide-content#readme"
+}
