@@ -10,6 +10,10 @@ npm install --save hexo-filter-hide-content
 
 ## Usage
 
-    ```markdown
-    The `markdown` code content will be hide
+    ```[hide]the content will be hide ...```
+
+    ```text
+    [hide]
+    the content will be hide
+    ...
     ```
